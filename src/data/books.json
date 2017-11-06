@@ -1,0 +1,239 @@
+{
+  "response":
+  [
+{
+    "pk": 1,
+        "chart_type": "column",
+        "title": "Contratos por Estados",
+        "subtitle": "Contratos por Estados",
+        "url": "/OmegaDashboard/contracts_charts?filter=status",
+        "description": "Descripcion 1",
+        "is_dashboard": true
+},
+{
+    "pk": 2,
+        "chart_type": "column",
+        "title": "Contratos por Tipos",
+        "subtitle": "",
+        "url": "/OmegaDashboard/contracts_charts?filter=type",
+        "description": "Descripcion 2",
+        "is_dashboard": true
+},
+{
+    "pk": 3,
+        "chart_type": "pie",
+        "title": "Activos por Estados",
+        "subtitle": "",
+        "url": "/OmegaDashboard/ci_charts?filter=status",
+        "description": "Descripcion 3",
+        "is_dashboard": true
+},
+{
+    "pk": 4,
+        "chart_type": "column",
+        "title": "Activos por Tipos",
+        "subtitle": "",
+        "url": "/OmegaDashboard/ci_charts?filter=type",
+        "description": "Descripcion 4",
+        "is_dashboard": true
+},
+{
+    "pk": 5,
+        "chart_type": "pie",
+        "title": "Mantenimiento por Estados",
+        "subtitle": "",
+        "url": "/OmegaDashboard/maintenance_charts?filter=status",
+        "description": "Descripcion 5",
+        "is_dashboard": true
+},
+{
+    "pk": 6,
+        "chart_type": "column",
+        "title": "Mantenimiento por Tipos",
+        "subtitle": "",
+        "url": "/OmegaDashboard/maintenance_charts?filter=type",
+        "description": "Descripcion 6",
+        "is_dashboard": true
+},
+{
+    "pk": 7,
+        "chart_type": "column",
+        "title": "Art\u00edculos por Tipos",
+        "subtitle": "",
+        "url": "/OmegaDashboard/article_charts?filter=type",
+        "description": "Desc",
+        "is_dashboard": true
+},
+{
+    "pk": 8,
+        "chart_type": "pie",
+        "title": "Art\u00edculos por Estados",
+        "subtitle": "",
+        "url": "/OmegaDashboard/article_charts?filter=status",
+        "description": "Desc",
+        "is_dashboard": true
+},
+{
+    "pk": 9,
+        "chart_type": "pie",
+        "title": "Requerimientos e Incidentes por Estados",
+        "subtitle": "",
+        "url": "/OmegaDashboard/od_req_inc_charts",
+        "description": "Desc",
+        "is_dashboard": true
+},
+{
+    "pk": 10,
+        "chart_type": "bar",
+        "title": "Omega Analyst",
+        "subtitle": "",
+        "url": "/OmegaDashboard/od_analyst_index_charts",
+        "description": "Desc",
+        "is_dashboard": true
+},
+{
+    "pk": 11,
+        "chart_type": "column",
+        "title": "Categor\u00edas, Estados y Reglas por Gestiones",
+        "subtitle": "",
+        "url": "/OmegaDashboard/od_config_index_charts",
+        "description": "Desc",
+        "is_dashboard": true
+},
+{
+    "pk": 12,
+        "chart_type": "pie",
+        "title": "Art\u00edculos por Tipo de Visualizaci\u00f3n",
+        "subtitle": "",
+        "url": "/OmegaDashboard/article_charts?filter=visualization",
+        "description": "Articulos",
+        "is_dashboard": true
+},
+{
+    "pk": 13,
+        "chart_type": "pie",
+        "title": "Art\u00edculos por Agrupaciones",
+        "subtitle": "",
+        "url": "/OmegaDashboard/article_charts?filter=groups",
+        "description": "Articulos",
+        "is_dashboard": true
+},
+{
+    "pk": 15,
+        "chart_type": "column",
+        "title": "Omega Analyst",
+        "subtitle": "",
+        "url": "/OmegaDashboard/od_analyst_index_charts",
+        "description": "Index analista",
+        "is_dashboard": false
+},
+{
+    "pk": 16,
+        "chart_type": "column",
+        "title": "Activos por Tipos",
+        "subtitle": "",
+        "url": "/OmegaDashboard/ci_charts?filter=type",
+        "description": "Descripcion 4",
+        "is_dashboard": false
+},
+{
+    "pk": 17,
+        "chart_type": "pie",
+        "title": "Activos por Estados",
+        "subtitle": "",
+        "url": "/OmegaDashboard/ci_charts?filter=status",
+        "description": "Descripcion 3",
+        "is_dashboard": false
+},
+{
+    "pk": 18,
+        "chart_type": "pie",
+        "title": "Contratos por Estados",
+        "subtitle": "Contratos por Estados",
+        "url": "/OmegaDashboard/contracts_charts?filter=status",
+        "description": "Descripcion 1",
+        "is_dashboard": false
+},
+{
+    "pk": 19,
+        "chart_type": "column",
+        "title": "Contratos por Tipos",
+        "subtitle": "",
+        "url": "/OmegaDashboard/contracts_charts?filter=type",
+        "description": "Descripcion 2",
+        "is_dashboard": false
+},
+{
+    "pk": 20,
+        "chart_type": "column",
+        "title": "Mantenimiento por Tipos",
+        "subtitle": "",
+        "url": "/OmegaDashboard/maintenance_charts?filter=type",
+        "description": "Descripcion 6",
+        "is_dashboard": false
+},
+{
+    "pk": 21,
+        "chart_type": "pie",
+        "title": "Mantenimiento por Estados",
+        "subtitle": "",
+        "url": "/OmegaDashboard/maintenance_charts?filter=status",
+        "description": "Descripcion 5",
+        "is_dashboard": false
+},
+{
+    "pk": 22,
+        "chart_type": "column",
+        "title": "Art\u00edculos por Tipos",
+        "subtitle": "",
+        "url": "/OmegaDashboard/article_charts?filter=type",
+        "description": "/OmegaDashboard/article_charts?filter=type",
+        "is_dashboard": false
+},
+{
+    "pk": 23,
+        "chart_type": "column",
+        "title": "Art\u00edculos por Estados",
+        "subtitle": "",
+        "url": "/OmegaDashboard/article_charts?filter=status",
+        "description": "/OmegaDashboard/article_charts?filter=status",
+        "is_dashboard": false
+},
+{
+    "pk": 24,
+        "chart_type": "pie",
+        "title": "Art\u00edculos por Tipo de Visualizaci\u00f3n",
+        "subtitle": "",
+        "url": "/OmegaDashboard/article_charts?filter=visualization",
+        "description": "/OmegaDashboard/article_charts?filter=visualization",
+        "is_dashboard": false
+},
+{
+    "pk": 25,
+        "chart_type": "column",
+        "title": "Art\u00edculos por Agrupaciones",
+        "subtitle": "",
+        "url": "/OmegaDashboard/article_charts?filter=groups",
+        "description": "/OmegaDashboard/article_charts?filter=groups",
+        "is_dashboard": false
+},
+{
+    "pk": 26,
+        "chart_type": "column",
+        "title": "Requerimientos e Incidentes por Estados",
+        "subtitle": "",
+        "url": "/OmegaDashboard/od_req_inc_charts",
+        "description": "desc",
+        "is_dashboard": false
+},
+{
+    "pk": 27,
+        "chart_type": "column",
+        "title": "Categor\u00edas, Estados y Reglas por Gestiones",
+        "subtitle": "",
+        "url": "/OmegaDashboard/od_config_index_charts",
+        "description": "Desc",
+        "is_dashboard": false
+}
+]
+}

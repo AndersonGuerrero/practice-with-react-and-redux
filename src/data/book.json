@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "pk": 1,
+      "chart_type": "column",
+      "title": "Contratos por Estados",
+      "subtitle": "Contratos por Estados",
+      "url": "/OmegaDashboard/contracts_charts?filter=status",
+      "description": "Descripcion 1",
+      "is_dashboard": true
+    }
+  ]
+}
